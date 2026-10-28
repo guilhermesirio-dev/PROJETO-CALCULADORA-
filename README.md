@@ -1,4 +1,2 @@
-
-
-### Projeto
-![Calculadora](https://firebasestorage.googleapis.com/v0/b/hcode-com-br.appspot.com/o/calculadora-hcode.jpg?alt=media&token=5406aa3f-b965-401c-9b4e-654609c78b33)
+ Calculadora Funcional (HTML & JavaScript)
+Uma aplicação web de calculadora limpa, intuitiva e responsiva, desenvolvida puramente com HTML5, CSS3 e JavaScript (Vanilla). O projeto simula o comportamento de uma calculadora de uso diário, oferecendo operações matemáticas essenciais com uma interface amigável.
